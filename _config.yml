@@ -1,0 +1,28 @@
+name: 23 Degrees North
+favicon: null
+layout_spectrum: 0.4884652018081397
+typography_spectrum: 0.7405987316742539
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8518756343983114
+  lightness: 0.3845311892218888
+  saturation: 0.5986053617671132
+  rhythmicContrast: 0.3669542327988893
+purpose: []
